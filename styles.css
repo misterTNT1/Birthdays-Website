@@ -1,1 +1,9 @@
- 
+ h1 {
+    margin-left: auto;
+    margin-right: auto;
+    color: #01c8ff;
+ }
+
+ p {
+    font-family: 'Times New Roman', Times, serif;
+ }
